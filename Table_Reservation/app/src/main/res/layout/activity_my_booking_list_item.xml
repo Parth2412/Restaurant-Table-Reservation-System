@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nagar.aakash.tablereservation.myBookingListItem">
+
+    <ImageView
+        android:id="@+id/mbImageView"
+        android:layout_width="112dp"
+        android:layout_height="107dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:scaleType="fitXY"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/food" />
+
+    <TextView
+        android:id="@+id/mbName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Gordhan Thal"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/mbImageView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/mbDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Date : 19 Nov 2018"
+        android:textColor="@color/darkGrey"
+        app:layout_constraintStart_toEndOf="@+id/mbImageView"
+        app:layout_constraintTop_toBottomOf="@+id/mbName" />
+
+    <TextView
+        android:id="@+id/mbTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Time : 08:30 pm"
+        android:textColor="@color/darkGrey"
+        app:layout_constraintStart_toEndOf="@+id/mbImageView"
+        app:layout_constraintTop_toBottomOf="@+id/mbDate" />
+
+    <TextView
+        android:id="@+id/mbTotalPerson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Total Persons : 5"
+        android:textColor="@color/darkGrey"
+        app:layout_constraintStart_toEndOf="@+id/mbImageView"
+        app:layout_constraintTop_toBottomOf="@+id/mbTime" />
+
+    <Button
+        android:id="@+id/mbBtnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="18dp"
+        android:text="Cancel"
+        app:layout_constraintBottom_toBottomOf="@+id/mbImageView"
+        app:layout_constraintEnd_toEndOf="parent" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Table Booking</string>
+    <string-array name="spinner_city">
+        <item>All</item>
+        <item>Ahmedabad</item>
+        <item>Gandhinagar</item>
+    </string-array>
+</resources>
