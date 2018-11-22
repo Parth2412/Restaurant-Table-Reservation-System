@@ -1,0 +1,16 @@
+SMAP
+manager_002ddashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 manager-dashboard.jsp
+manager-dashboard.jsp
+*L
+1,109:44
+110:153,3
+111,4:156
+115:160,3
+116,393:163
+509:556,3
+510,425:559
+*E

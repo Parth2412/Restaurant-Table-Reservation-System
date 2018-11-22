@@ -1,0 +1,18 @@
+SMAP
+add_002drestaurant_002dphoto_jsp.java
+JSP
+*S JSP
+*F
++ 0 add-restaurant-photo.jsp
+add-restaurant-photo.jsp
+*L
+1,49:44
+50:93,3
+51,4:96
+55:100,3
+56,22:103
+78:125,3
+79,14:128
+93:142,3
+94,42:145
+*E

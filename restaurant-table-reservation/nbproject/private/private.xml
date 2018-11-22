@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/admin-login.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/updateRestaurantControllerRedirect.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/dao/manager_operation.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/dao/admin_operation.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/helpingClasses/session_factory.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/deleteBookingController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/addRestaurantMenuController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/addRestaurantPhotoController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/bean/restaurant_menu.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/updateRestaurantController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/managerLoginController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/dao/manager_declaration.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/connection.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/view-restaurant-detail.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/bean/booking.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/bean/restaurant_manager.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/addRestaurantController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/view-all-user.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/add-menu.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/bean/user.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/view-all-booking.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/adminLoginController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/add-restaurant-photo.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/bean/restaurant.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/manager-login.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/web/view-all-restaurant.jsp</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/controller/managerRegisterController.java</file>
+            <file>file:/D:/Projects/restaurant-table-reservation/src/java/resources/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
